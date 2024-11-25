@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pattgene/My-CV/static/css/main.27dd936e.css",
+    "main.js": "/pattgene/My-CV/static/js/main.d5dd1b77.js",
+    "static/js/453.1407b060.chunk.js": "/pattgene/My-CV/static/js/453.1407b060.chunk.js",
+    "static/media/profile.jpg": "/pattgene/My-CV/static/media/profile.2aa8ff023c89c24ba276.jpg",
+    "index.html": "/pattgene/My-CV/index.html",
+    "main.27dd936e.css.map": "/pattgene/My-CV/static/css/main.27dd936e.css.map",
+    "main.d5dd1b77.js.map": "/pattgene/My-CV/static/js/main.d5dd1b77.js.map",
+    "453.1407b060.chunk.js.map": "/pattgene/My-CV/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27dd936e.css",
+    "static/js/main.d5dd1b77.js"
+  ]
+}
